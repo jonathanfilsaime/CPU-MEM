@@ -1,0 +1,122 @@
+1  
+91  \\load 91 to AC 
+9  
+2  \\print AC 	 
+1  
+36 \\load 36 to AC 
+9 
+2 \\print AC
+1 
+40 \\load 40 into AC 
+9 
+2 \\print AC 
+1 
+100 \\ load 100 into AC 
+9 
+1 
+1
+41 \\load 41 in AC 
+9 
+2 
+1 
+36 \\load 36 into AC 
+9  
+2 
+1 
+93 \\ load 93 into AC
+9 
+2 
+1 
+1 
+10 
+9 
+2 
+1   
+1
+1  
+91  \\load 91 to AC 
+9  
+2  \\print AC 	 
+1  
+36 \\load 36 to AC 
+9 
+2 \\print AC
+1 
+40 \\load 40 into AC 
+9 
+2 \\print AC 
+1 
+100 \\ load 100 into AC 
+9 
+1 
+1
+41 \\load 41 in AC 
+9 
+2 
+1 
+36 \\load 36 into AC 
+9  
+2 
+1 
+93 \\ load 93 into AC
+9 
+2 
+1 
+1 
+10 
+9 
+2 
+1   
+1 
+1  
+91  \\load 91 to AC 
+9  
+2  \\print AC 	 
+1  
+36 \\load 36 to AC 
+9 
+2 \\print AC
+1 
+40 \\load 40 into AC 
+9 
+2 \\print AC 
+1 
+100 \\ load 100 into AC 
+9 
+1 
+1
+41 \\load 41 in AC 
+9 
+2 
+1 
+36 \\load 36 into AC 
+9  
+2 
+1 
+93 \\ load 93 into AC
+9 
+2 
+1 
+1 
+10 
+9 
+2 
+1   
+1 
+10 
+9 
+2 
+1 
+1 
+10 
+9 
+2 
+1 
+1 
+64  
+9 
+2 
+1 
+1 
+50    
+   
